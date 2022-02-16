@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXTINF:-1,
+https://github.com/aecnuxeux/idk.nu.01/raw/main/10000000_693580945357069_2687828001797981095-001.mkv
+#EXTINF:-1,
+https://github.com/aecnuxeux/idk.nu.01/raw/main/10000000_693580945357069_2687828001797981095-002.mkv
+#EXTINF:-1,
+https://github.com/aecnuxeux/idk.nu.01/raw/main/10000000_693580945357069_2687828001797981095-003.mkv
